@@ -28,7 +28,8 @@ include_content = true
 index_format = "fuse_json"
 
 [extra]
-footer_description = ""
+search_url = "buscar/"
+footer_description = "Primeros apuntes y textos introductorios del trabajo interior."
 footer_author = "Gran Halcón"
 copyright_year = 2026
 navigation = [
@@ -50,6 +51,14 @@ canonical_url = "https://circulo.pages.dev/primeras-letras/"
 [extra.publisher]
 name = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
 url = "https://circulo.pages.dev/"
+
+[extra.publication]
+title = "Primeras Letras"
+authors = ["Gran Halcón"]
+language = "es"
+publisher = "Círculo de Cultura Gnóstica y Medicinas Ancestrales"
+license = "CC BY-NC-SA 4.0"
+license_url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 [extra.search]
 enabled = true
