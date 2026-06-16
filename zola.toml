@@ -1,4 +1,5 @@
 base_url = "https://circulo.pages.dev/primeras-letras"
+theme = "enso"
 title = "Primeras Letras"
 description = ""
 default_language = "es"
