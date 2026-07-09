@@ -2,6 +2,7 @@
 title = "La Pipa Sagrada"
 description = "El antropólogo J.E. Brown vivió durante ocho meses en la reserva india de Pine Ridge (Dakota del Sur) donde conoció a Alce Negro, un anciano sacerdote sioux quien para evitar que sus conocimientos sagrados, de los que era su último depositaria, desaparecieran con él relató los siete ritos fundamentales que conforman la religión y cosmografía tradicional de los indios sioux, que se recogen es este libro."
 weight = 2
+sort_by = "weight"
 template = "book.html"
 [extra]
 authors = ["Black Elk"]

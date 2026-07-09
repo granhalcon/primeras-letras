@@ -2,6 +2,7 @@
 title = "Alce Negro Habla"
 description = "El célebre visionario y curandero de los oglalas lakotas Alce Negro (1863-1950) conoció al distinguido poeta, escritor y crítico John G. Neihardt en 1930 en la reserva de Pine Ridge, en Dakota del Sur, y le pidió que compartiera su historia con el mundo. Sus desgarradoras visiones sobre la relación entre el ser humano y la tierra han convertido este libro en un clásico que atraviesa múltiples géneros. Ya sea como un conmovedor retrato de la vida lakota, como la historia de una de las naciones de nativos americanos, o como un testamento espiritual perdurable, Alce Negro habla es un documento inolvidable. Esta edición incluye una introducción del historiador Philip J. Deloria, anotaciones del reconocido erudito de los lakotas Raymond J. DeMallie, tres ensayos de Neihardt, textos de Alexis Petri y Lori Utecht, y un conjunto de apéndices, mapas y fotografías. Alce Negro habla explora el misticismo, el contexto y la historia de una de las múltiples comunidades de nativos americanos que habitaban el continente antes de la llegada de los europeos, sus tradiciones y su modo de vivir y pensar, lo que lo convierte en un testimonio histórico y sociológico único sobre estas sociedades que fueron diezmadas y desplazadas de su propia tierra."
 weight = 3
+sort_by = "weight"
 template = "book.html"
 [extra]
 authors = ["John G. Neihardt"]
